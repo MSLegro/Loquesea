@@ -1,0 +1,11 @@
+C:\Users\manue\source\repos\Juego\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\manue\source\repos\Juego\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\manue\source\repos\Juego\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\manue\source\repos\Juego\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\manue\source\repos\Juego\Presentacion\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\manue\source\repos\Juego\Presentacion\obj\Debug\Presentacion.Form1.resources
+C:\Users\manue\source\repos\Juego\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\manue\source\repos\Juego\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\manue\source\repos\Juego\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\manue\source\repos\Juego\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\manue\source\repos\Juego\Presentacion\obj\Debug\Presentacion.pdb
